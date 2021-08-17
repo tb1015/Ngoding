@@ -7,6 +7,7 @@ Importing fungsi f1 dari module f1
 @author: tb
 """
 
-from f1 import f1
+from F1 import f1
 
 print(f1(2,2))
+print("OK")
