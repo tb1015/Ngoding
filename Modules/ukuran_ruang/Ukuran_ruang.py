@@ -9,7 +9,7 @@ from Luas import luas
 from Volume import volume
 import math
 
-unit = " m"
+unit = " cm"
 d1 = 2*math.pi
 d2 = 3
 d3 = 1
